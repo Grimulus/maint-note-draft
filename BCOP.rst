@@ -397,7 +397,7 @@ Francisco Hidalgo, Tylar Keese, Tj Trask, Sean Stuart, Randy Neals, Peter Hoose,
     x-maintnote-impact = "X-MAINTNOTE-IMPACT" *(";" icalparameter) ":" impactvalue CRLF
 
 \
-    .
+
      +-----------------------+------------------------------------------------------------+
      | Impact Value          | Comment                                                    |
      +=======================+============================================================+
@@ -414,7 +414,7 @@ Francisco Hidalgo, Tylar Keese, Tj Trask, Sean Stuart, Randy Neals, Peter Hoose,
      |``iana-token``         | Some other IANA-registered impact property parameter value |
      +-----------------------+------------------------------------------------------------+
 
-  .
+  
 
    **Example:**
 
